@@ -10,10 +10,11 @@ layout: home
 
 *Ideas de destinos maravillosos: Desde escapadas veraniegas hasta fiestas navideñas, estamos a tus disposición los 365 días del año.
 
----
-title: Destinos
-layout: home
----
+
+*Reserva en todo lo que puedas necesitar: Te ayudamos a reservar tanto vehículos, hoteles, reserva de entradas... solo tienes que elegir a donde quieras ir.
+
+
+
 
 
 
