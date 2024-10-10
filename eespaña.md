@@ -1,4 +1,0 @@
----
-title: España
-layout: Destinos
----
