@@ -10,7 +10,10 @@ layout: home
 
 *Ideas de destinos maravillosos: Desde escapadas veraniegas hasta fiestas navideñas, estamos a tus disposición los 365 días del año.
 
-
+---
+title: Destinos
+layout: home
+---
 
 
 
