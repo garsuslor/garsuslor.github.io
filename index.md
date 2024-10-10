@@ -1,6 +1,7 @@
 ---
 title: índice
 layout: home
+nav_order: 1
 ---
 
 ¡Mira el mundo con otros ojos! con Lunor, tenemos una guía extensa con propuestas de viajes, consejos y descuentos. ¡Lo tenemos todo para tus próximas vaciones!
