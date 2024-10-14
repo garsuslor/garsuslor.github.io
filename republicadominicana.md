@@ -1,6 +1,8 @@
 ---
-title : Republica Dominicana
-Parents : Destinos
+title: República Dominicana
+layout: home
+parent: Destinos
+nav_order: 4
 ---
 
 ¡Descubre la República Dominicana: Tu Guía para un Viaje Inolvidable!
