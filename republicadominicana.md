@@ -4,6 +4,7 @@ layout: home
 parent: Destinos
 nav_order: 4
 ---
+
 # ¡Descubre la República Dominicana: Tu Guía para un Viaje Inolvidable!
 
 La República Dominicana es un verdadero paraíso caribeño que combina playas de ensueño, una rica historia, cultura vibrante y una comida deliciosa. Si estás pensando en visitar este hermoso país, aquí tienes todo lo que necesitas saber para disfrutar al máximo de tu aventura.
