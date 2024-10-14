@@ -13,11 +13,15 @@ Si estás planeando un viaje a este hermoso país, aquí tienes todo lo que nece
 1. Preparativos para el Viaje
    
    ### Documentación
-        Pasaporte y Visa: Asegúrate de tener un pasaporte válido. Los ciudadanos de la UE no necesitan visa para ingresar a España, mientras que otros países pueden requerir una visa Schengen.
+
+         Pasaporte y Visa: Asegúrate de tener un pasaporte válido. Los ciudadanos de la UE no necesitan visa para ingresar a España, mientras que otros países pueden requerir una visa Schengen.
    
    ### Mejor Época para Visitar
+   
          Primavera (marzo a junio): Ideal para disfrutar del buen clima y menos turistas.
          Otoño (septiembre a noviembre): También es una excelente opción, con temperaturas agradables y festivales locales.
+   
    ### Moneda
+   
          La moneda oficial es el euro (€). Es recomendable llevar algo de efectivo, aunque la mayoría de los lugares aceptan tarjetas de crédito.
 
