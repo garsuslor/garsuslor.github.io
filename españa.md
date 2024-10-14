@@ -17,6 +17,6 @@ Si estás planeando un viaje a este hermoso país, aquí tienes todo lo que nece
    ### Mejor Época para Visitar
          - Primavera (marzo a junio): Ideal para disfrutar del buen clima y menos turistas.
          - Otoño (septiembre a noviembre): También es una excelente opción, con temperaturas agradables y festivales locales.
-
-
+   ### Moneda
+         - La moneda oficial es el euro (€). Es recomendable llevar algo de efectivo, aunque la mayoría de los lugares aceptan tarjetas de crédito.
 
