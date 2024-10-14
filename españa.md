@@ -14,5 +14,9 @@ Si estás planeando un viaje a este hermoso país, aquí tienes todo lo que nece
    ### Documentación
        - Pasaporte y Visa: Asegúrate de tener un pasaporte válido.
          Los ciudadanos de la UE no necesitan visa para ingresar a España, mientras que otros países pueden requerir una visa Schengen.
+   ### Mejor Época para Visitar
+         - Primavera (marzo a junio): Ideal para disfrutar del buen clima y menos turistas.
+         - Otoño (septiembre a noviembre): También es una excelente opción, con temperaturas agradables y festivales locales.
+
 
 
