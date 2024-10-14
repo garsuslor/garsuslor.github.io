@@ -10,18 +10,25 @@ nav_order: 2
 España es un destino que combina historia, cultura, gastronomía y paisajes espectaculares.
 Si estás planeando un viaje a este hermoso país, aquí tienes todo lo que necesitas saber para aprovechar al máximo tu visita.
 
-1. Preparativos para el Viaje
-   
-   ### Documentación
+## 1. Preparativos para el Viaje
 
-         Pasaporte y Visa: Asegúrate de tener un pasaporte válido. Los ciudadanos de la UE no necesitan visa para ingresar a España, mientras que otros países pueden requerir una visa Schengen.
+### Documentación
    
-   ### Mejor Época para Visitar
+Pasaporte y Visa: Asegúrate de tener un pasaporte válido. Los ciudadanos de la UE no necesitan visa para ingresar a España, mientras que otros países pueden requerir una visa Schengen.
    
-         Primavera (marzo a junio): Ideal para disfrutar del buen clima y menos turistas.
-         Otoño (septiembre a noviembre): También es una excelente opción, con temperaturas agradables y festivales locales.
+### Mejor Época para Visitar
    
-   ### Moneda
+- Primavera (marzo a junio): Ideal para disfrutar del buen clima y menos turistas.
+- Otoño (septiembre a noviembre): También es una excelente opción, con temperaturas agradables y festivales locales.
    
-         La moneda oficial es el euro (€). Es recomendable llevar algo de efectivo, aunque la mayoría de los lugares aceptan tarjetas de crédito.
+### Moneda
 
+- La moneda oficial es el euro (€). Es recomendable llevar algo de efectivo, aunque la mayoría de los lugares aceptan tarjetas de crédito.
+
+## 2. Los Imprescindibles de España
+
+### Barcelona
+- Sagrada Familia: Esta obra maestra de Gaudí es un símbolo de la ciudad.
+- Parque Güell: Un parque colorido lleno de arte y naturaleza.
+- Las Ramblas: Pasea por esta famosa avenida llena de vida y restaurantes.
+  ![Barcelona](https://hips.hearstapps.com/hmg-prod/images/barcelona-city-skyline-with-sagrada-familia-royalty-free-image-1692960079.jpg)
