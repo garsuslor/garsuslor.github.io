@@ -14,7 +14,7 @@ Si estás planeando un viaje a este hermoso país, aquí tienes todo lo que nece
 
 ### Documentación
    
-Pasaporte y Visa: Asegúrate de tener un pasaporte válido. Los ciudadanos de la UE no necesitan visa para ingresar a España, mientras que otros países pueden requerir una visa Schengen.
+- Pasaporte y Visa: Asegúrate de tener un pasaporte válido. Los ciudadanos de la UE no necesitan visa para ingresar a España, mientras que otros países pueden requerir una visa Schengen.
    
 ### Mejor Época para Visitar
    
