@@ -45,12 +45,12 @@ La moneda utilizada es el euro (€). Es recomendable llevar algo de efectivo, a
 - **Catedral de Colonia (Kölner Dom):** Una impresionante catedral gótica, famosa por su espectacular arquitectura y sus dos torres imponentes.
 - **Paseo por el Rin:** Un recorrido encantador a lo largo del río Rin, donde podrás disfrutar de vistas panorámicas de la ciudad.
 - **Museo del Chocolate:** Un lugar divertido para conocer la historia del chocolate y saborear delicias irresistibles.
- ![COLONIA]((https://github.com/user-attachments/assets/fe264507-8b7e-402a-9380-0e9a2c73ae2b)
+ ![COLONIA](https://github.com/user-attachments/assets/fe264507-8b7e-402a-9380-0e9a2c73ae2b)
 
 ### Fráncfort
 - **Römer:** Un antiguo edificio del ayuntamiento, conocido por su arquitectura medieval y su importancia histórica.
 - **Museo Städel:** Uno de los museos de arte más destacados del país, con una vasta colección que abarca desde la Edad Media hasta el arte contemporáneo.
 - **Palmengarten:** Un hermoso jardín botánico perfecto para pasear y disfrutar de la naturaleza.
- ![francfort]((https://github.com/user-attachments/assets/434e008e-6952-4ccf-937e-9390c607dc09)
+ ![francfort](https://github.com/user-attachments/assets/434e008e-6952-4ccf-937e-9390c607dc09)
 
 
