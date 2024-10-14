@@ -4,24 +4,30 @@ layout: home
 parent: Destinos
 nav_order: 4
 ---
+# ¡Descubre la República Dominicana: Tu Guía para un Viaje Inolvidable!
 
-¡Descubre la República Dominicana: Tu Guía para un Viaje Inolvidable!
 La República Dominicana es un verdadero paraíso caribeño que combina playas de ensueño, una rica historia, cultura vibrante y una comida deliciosa. Si estás pensando en visitar este hermoso país, aquí tienes todo lo que necesitas saber para disfrutar al máximo de tu aventura.
 
-1. Prepárate para tu Viaje
-Documentación
-Pasaporte y Visa: Asegúrate de que tu pasaporte esté en regla. La buena noticia es que muchos turistas no necesitan visa para entrar, pero siempre es bueno chequear los requisitos específicos para tu país.
-Mejor Época para Visitar
-Invierno (diciembre a abril): Esta es la mejor temporada, con clima ideal y poco lluvia, perfecto para disfrutar de las playas.
-Verano (junio a noviembre): Aunque puede llover un poco, si prefieres menos turistas, esta es una buena época. Solo ten en cuenta que hay riesgo de huracanes de junio a noviembre, así que siempre revisa el clima.
-Moneda
+## 1. Prepárate para tu Viaje
+
+### Documentación
+- Pasaporte y Visa: Asegúrate de que tu pasaporte esté en regla. La buena noticia es que muchos turistas no necesitan visa para entrar, pero siempre es bueno chequear los requisitos específicos para tu país.
+
+### Mejor Época para Visitar
+- **Invierno (diciembre a abril):** Esta es la mejor temporada, con clima ideal y poco lluvia, perfecto para disfrutar de las playas.
+- **Verano (junio a noviembre):** Aunque puede llover un poco, si prefieres menos turistas, esta es una buena época. Solo ten en cuenta que hay riesgo de huracanes de junio a noviembre, así que siempre revisa el clima.
+
+### Moneda
 La moneda es el peso dominicano (DOP). Llevar un poco de efectivo es útil, aunque en muchos lugares aceptan tarjetas de crédito.
-2. Lugares que No Te Puedes Perder
-Santo Domingo
-Zona Colonial: Este lugar es pura historia. Pasea por sus calles empedradas, admira la arquitectura colonial y siente la vibra de los siglos pasados.
-Catedral Primada de América: ¡Increíble! Es la primera catedral construida en América, y su belleza te dejará sin palabras.
-Alcázar de Colón: Aquí vivió el hijo de Cristóbal Colón. Es un museo fascinante que guarda muchos secretos de la historia.
-Punta Cana
+
+## 2. Lugares que No Te Puedes Perder
+
+### Santo Domingo
+- **Zona Colonial:** Este lugar es pura historia. Pasea por sus calles empedradas, admira la arquitectura colonial y siente la vibra de los siglos pasados.
+- **Catedral Primada de América:** ¡Increíble! Es la primera catedral construida en América, y su belleza te dejará sin palabras.
+- **Alcázar de Colón:**  Aquí vivió el hijo de Cristóbal Colón. Es un museo fascinante que guarda muchos secretos de la historia.
+  
+### Punta Cana
 Playa Bávaro: Imagínate arena blanca y aguas turquesas. Es el lugar ideal para relajarte y practicar deportes acuáticos.
 Isla Saona: Un auténtico paraíso. Es perfecta para una excursión, donde podrás disfrutar de playas vírgenes y un paisaje impresionante.
 Fundación Ecológica Punta Cana: Ideal para los amantes de la naturaleza. Explora senderos y conoce la fauna local.
