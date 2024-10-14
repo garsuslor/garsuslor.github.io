@@ -27,7 +27,7 @@ Pasaporte y Visa: Asegúrate de tener un pasaporte válido. Los ciudadanos de la
 
 ## 2. Los Imprescindibles de España
 
-### Barcelona
+## Barcelona
 - Sagrada Familia: Esta obra maestra de Gaudí es un símbolo de la ciudad.
 - Parque Güell: Un parque colorido lleno de arte y naturaleza.
 - Las Ramblas: Pasea por esta famosa avenida llena de vida y restaurantes.
@@ -40,19 +40,19 @@ Pasaporte y Visa: Asegúrate de tener un pasaporte válido. Los ciudadanos de la
 ![Madrid](https://www.civitatis.com/f/pseo/espana/madrid/gran-via-noche-madrid-1200.jpg)
 
 
-## Sevilla
+### Sevilla
 - Catedral de Sevilla y La Giralda: Una impresionante catedral gótica y su icónica torre.
 - Barrio de Santa Cruz: Un laberinto de calles estrechas y encantadoras.
 - Alcázar de Sevilla: Un palacio con una rica historia y hermosos jardines.
 ![Sevilla](https://github.com/user-attachments/assets/6a8007c9-9e3c-4c84-8a56-fcb5911dfd33)
 
-## Galicia
+### Galicia
 - Santiago de Compostela: La famosa ciudad de peregrinación, con su catedral que alberga los restos del apóstol Santiago.
 - Rías Baixas: Conocidas por sus hermosos paisajes y mariscos frescos, ideales para disfrutar de la gastronomía local.
 - Islas Cíes: Un paraíso natural, ideal para hacer senderismo y disfrutar de playas paradisíacas.
  ![Galicia](https://res.cloudinary.com/worldpackers/image/upload/c_limit,f_auto,q_auto,w_1140/eqsl2dtjtezprsds8887)
 
-## 3. Gastronomía Española (¡Las que más nos gustan!)
+### 3. Gastronomía Española (¡Las que más nos gustan!)
 
 ### Cataluña (Barcelona)
 - Pan con Tomate: Una tostada de pan frotada con tomate maduro y aliñada con aceite de oliva, sal y, a veces, ajo. Perfecto como aperitivo o acompañamiento.
