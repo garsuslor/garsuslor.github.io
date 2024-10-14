@@ -24,9 +24,10 @@ La moneda utilizada es el euro (€). Es recomendable llevar algo de efectivo, a
 ## 2. Lugares Imperdibles en Alemania
 
 ### Berlín
--**Puerta de Brandenburgo:** Este emblemático monumento es un símbolo de la historia alemana y un lugar de encuentro icónico.
-Muro de Berlín: Un sitio cargado de significado histórico, que ahora es un espacio para la reflexión y el arte urbano.
-Isla de los Museos: Un conjunto de museos de renombre mundial, donde puedes sumergirte en la cultura y la historia.
+- **Puerta de Brandenburgo:** Este emblemático monumento es un símbolo de la historia alemana y un lugar de encuentro icónico.
+- **Muro de Berlín:** Un sitio cargado de significado histórico, que ahora es un espacio para la reflexión y el arte urbano.
+- **Isla de los Museos:** Un conjunto de museos de renombre mundial, donde puedes sumergirte en la cultura y la historia.
+  
 Múnich
 Marienplatz: La plaza central de la ciudad, famosa por su impresionante nuevo ayuntamiento y su famoso reloj.
 Jardín Inglés: Uno de los parques urbanos más grandes del mundo, ideal para dar un paseo o relajarte con una cerveza al aire libre.
