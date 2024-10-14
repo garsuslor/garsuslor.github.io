@@ -50,4 +50,21 @@ Pasaporte y Visa: Asegúrate de tener un pasaporte válido. Los ciudadanos de la
 - Santiago de Compostela: La famosa ciudad de peregrinación, con su catedral que alberga los restos del apóstol Santiago.
 - Rías Baixas: Conocidas por sus hermosos paisajes y mariscos frescos, ideales para disfrutar de la gastronomía local.
 - Islas Cíes: Un paraíso natural, ideal para hacer senderismo y disfrutar de playas paradisíacas.
- ![Galicia](https://res.cloudinary.com/worldpackers/image/upload/c_limit,f_auto,q_auto,w_1140/eqsl2dtjtezprsds8887) 
+ ![Galicia](https://res.cloudinary.com/worldpackers/image/upload/c_limit,f_auto,q_auto,w_1140/eqsl2dtjtezprsds8887)
+
+## 3. Gastronomía Española (¡Las que más nos gustan!)
+
+### Cataluña (Barcelona)
+- Pan con Tomate: Una tostada de pan frotada con tomate maduro y aliñada con aceite de oliva, sal y, a veces, ajo. Perfecto como aperitivo o acompañamiento.
+- Crema Catalana: Un postre similar a la crème brûlée, hecho a base de yema de huevo, leche y azúcar, con una capa caramelizada por encima.
+### Madrid
+- Cocido Madrileño: Un guiso de garbanzos con carne, verduras y embutidos, que se sirve en diferentes fases. Es un plato contundente y muy sabroso.
+- Churros con Chocolate: Una deliciosa merienda o desayuno, donde los churros se sumergen en un espeso chocolate caliente.
+  
+### Andalucía (Sevilla y Granada)
+- Gazpacho: Una sopa fría a base de tomates, pimientos, cebolla, pepino y ajo, ideal para los calurosos días de verano.
+- Piononos: Dulces típicos de Granada, hechos de un bizcocho enrollado con crema y espolvoreados con canela.
+
+### Galicia
+- Pulpo a la Gallega: Un plato emblemático que consiste en pulpo cocido, aliñado con aceite de oliva, sal gruesa y pimentón. Se sirve sobre una cama de patatas.
+- Empanada Gallega: Un pastel salado relleno de atún, carne o verduras, muy popular en las fiestas y celebraciones.
