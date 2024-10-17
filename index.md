@@ -8,7 +8,7 @@ nav_order: 1
 
 Bienvenido a **Lunor**, tu compañero ideal para explorar el mundo. Estamos aquí para ayudarte a planificar tus viajes de una manera fácil y emocionante. Nuestra misión es ofrecerte una guía extensa con propuestas de viajes, consejos útiles y descuentos irresistibles. ¡Lo tenemos todo para tus próximas vacaciones!
 
-                      ![LUNOR](https://i.ibb.co/LJD2bhT/Logo-para-agencia-de-viajes-ilustrado-moderno-azul.png)
+![LUNOR](https://i.ibb.co/LJD2bhT/Logo-para-agencia-de-viajes-ilustrado-moderno-azul.png)
 
 ## ¿Qué te ofrecemos?
 
