@@ -27,19 +27,26 @@ La moneda es el peso dominicano (DOP). Llevar un poco de efectivo es útil, aunq
 - **Zona Colonial:** Este lugar es pura historia. Pasea por sus calles empedradas, admira la arquitectura colonial y siente la vibra de los siglos pasados.
 - **Catedral Primada de América:** ¡Increíble! Es la primera catedral construida en América, y su belleza te dejará sin palabras.
 - **Alcázar de Colón:**  Aquí vivió el hijo de Cristóbal Colón. Es un museo fascinante que guarda muchos secretos de la historia.
-  
+![Playa](https://lh3.googleusercontent.com/p/AF1QipOcC99QWqHOcOkSRtQiVGCZIeEp1AYGx7IbLtF6=s680-w680-h510)
+
 ### Punta Cana
-Playa Bávaro: Imagínate arena blanca y aguas turquesas. Es el lugar ideal para relajarte y practicar deportes acuáticos.
-Isla Saona: Un auténtico paraíso. Es perfecta para una excursión, donde podrás disfrutar de playas vírgenes y un paisaje impresionante.
-Fundación Ecológica Punta Cana: Ideal para los amantes de la naturaleza. Explora senderos y conoce la fauna local.
-Puerto Plata
-Teleférico de Puerto Plata: ¡Las vistas son espectaculares! Sube al monte Isabel de Torres y disfruta de panorámicas increíbles.
-Fortaleza San Felipe: Un fuerte antiguo lleno de historia y con vistas al océano que te dejarán boquiabierto.
-Playa Dorada: Con su arena dorada y aguas tranquilas, es perfecta para un día de sol y mar.
-Samaná
-Los Haitises: Este parque nacional es pura naturaleza. Puedes hacer excursiones en bote y explorar cuevas y manglares.
-Cascada El Limón: Una caída de agua hermosa que puedes alcanzar a pie o a caballo. ¡No te la pierdas!
-Bahía de Samaná: Si estás en la temporada adecuada, podrás ver las ballenas jorobadas que vienen a esta bahía entre enero y marzo.
+- **Playa Bávaro:** Imagínate arena blanca y aguas turquesas. Es el lugar ideal para relajarte y practicar deportes acuáticos.
+- **Isla Saona:** Un auténtico paraíso. Es perfecta para una excursión, donde podrás disfrutar de playas vírgenes y un paisaje impresionante.
+- **Fundación Ecológica Punta Cana:** Ideal para los amantes de la naturaleza. Explora senderos y conoce la fauna local.
+ ![Isla Saona](https://static-resources.mirai.com/wp-content/uploads/sites/1738/20230912092406/2.-Isla-Saona-playas.jpg) 
+  
+### Puerto Plata
+- **Teleférico de Puerto Plata:** ¡Las vistas son espectaculares! Sube al monte Isabel de Torres y disfruta de panorámicas increíbles.
+- **Fortaleza San Felipe:** Un fuerte antiguo lleno de historia y con vistas al océano que te dejarán boquiabierto.
+- **Playa Dorada:** Con su arena dorada y aguas tranquilas, es perfecta para un día de sol y mar.
+ ![Puerto plata](https://jackcana.tours/wp-content/uploads/2023/06/Puerto-Plata_-razones-para-conocer-esta-ciudad-dominicana.jpg) 
+ 
+### Samaná
+- ***Los Haitises:*** Este parque nacional es pura naturaleza. Puedes hacer excursiones en bote y explorar cuevas y manglares.
+- **Cascada El Limón:** Una caída de agua hermosa que puedes alcanzar a pie o a caballo. ¡No te la pierdas!
+- **Bahía de Samaná:** Si estás en la temporada adecuada, podrás ver las ballenas jorobadas que vienen a esta bahía entre enero y marzo.
+
+
 La Romana
 Altos de Chavón: Un lugar mágico que parece sacado de una película. Este pueblo tiene un estilo mediterráneo y unas vistas al río Chavón que son de ensueño.
 Casa de Campo: Un resort de lujo con campos de golf espectaculares y playas increíbles.
